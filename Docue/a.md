@@ -47,3 +47,5 @@ Program has park kind arch benefit.
 Program has park kind arch marry.
 
 Program has park kind arch land.
+
+Program has major.
